@@ -1,0 +1,24 @@
+ body{
+    background-color: black;
+    display: flex;
+    margin-top:150px ;
+    margin-left: 200px;
+ }
+ 
+ 
+ 
+ .one{
+    background-color:palevioletred;
+    width: 270px;
+    height: 350px;
+    
+    
+}
+.two{
+    background-color: white;
+    width: 270px;
+    height: 350px;
+    
+    
+    
+}
